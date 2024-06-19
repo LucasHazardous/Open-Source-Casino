@@ -1,0 +1,1 @@
+{"version":3,"file":"DataTransfer.js","sourceRoot":"","sources":["../../src/event/DataTransfer.ts"],"names":[],"mappings":";;;;;AACA,kFAA0D;AAE1D;;GAEG;AACH,MAAqB,YAAY;IAAjC;QACQ,eAAU,GAAG,MAAM,CAAC;QACpB,kBAAa,GAAG,MAAM,CAAC;QACvB,UAAK,GAAW,EAAE,CAAC;QACV,UAAK,GAAyB,IAAI,8BAAoB,EAAE,CAAC;QACzD,UAAK,GAAa,EAAE,CAAC;IACtC,CAAC;CAAA;AAND,+BAMC"}
